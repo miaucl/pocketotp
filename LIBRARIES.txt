@@ -1,3 +1,9 @@
 Adafruit_BusIO
 Adafruit_EPD
 Adafruit_GFX_Libary
+FlashStorage
+Base32-Decode
+TOTP library
+Time
+ArduinoLowPower
+RTCLib
